@@ -25,7 +25,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: var(--lightGray);
+    background-color: var(--lGrayishBlue);
 }
 
 
